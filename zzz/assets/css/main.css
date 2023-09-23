@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	background-color: #364050;
 }
 
 ol, ul {
@@ -56,7 +57,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: red;
 	color: inherit;
 }
 
@@ -83,7 +84,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #e8e8e8;
+		background-color: #7667ff6c;
 		background-image: url("images/bg02.png");
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -105,7 +106,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #565656;
+		color: #b60f0f;
 	}
 
 	a {
@@ -114,7 +115,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 700;
-		color: #232323;
+		color: #cf1717;
 	}
 
 	h2, h3, h4, h5, h6 {
