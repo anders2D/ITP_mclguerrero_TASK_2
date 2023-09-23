@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-color: #364050;
+	background-color: black;
 }
 
 ol, ul {
@@ -84,7 +84,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #7667ff6c;
+		background-color: black;
 		background-image: url("images/bg02.png");
 		display: -moz-flex;
 		display: -webkit-flex;
